@@ -1,0 +1,28 @@
+.container {
+    margin-top: 0.5rem;
+    background-color: #000;
+    padding: 2rem;
+}
+
+.light {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    margin-bottom: 1.3rem;
+}
+
+.red {
+    background-color: hsl(0, 50%, 50%);
+}
+
+.yellow {
+    background-color: hsl(50, 50%, 50%);
+}
+
+.green {
+    background-color: hsl(150, 50%, 50%);
+}
+
+.on {
+    box-shadow: 0px 0px 50px hsl(0, 30%, 80%);
+}
